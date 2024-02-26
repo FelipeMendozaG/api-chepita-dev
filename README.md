@@ -31,7 +31,7 @@ chepita-dev/
 ├── static/
 ├── .env
 └── index.js
-
+```
 - **controllers/**: Contiene controladores para manejar la lógica de negocio.
 - **models/**: Contiene modelos de datos que interactúan con la base de datos.
 - **routes/**: Contiene archivos de enrutamiento para definir las rutas de la API.
