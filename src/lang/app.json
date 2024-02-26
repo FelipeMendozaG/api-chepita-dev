@@ -1,0 +1,20 @@
+{
+    "response":{
+        "es":{
+            "success":{
+                "message":"La peticion fue realizada con exito"
+            },
+            "error":{
+                "message":"La peticion termino con errores"
+            }
+        },
+        "en":{
+            "success":{
+                "message":"the request is finish success"
+            },
+            "error":{
+                "message":"the request is finish error"
+            }
+        }
+    }
+}
